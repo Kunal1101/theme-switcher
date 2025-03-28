@@ -12,7 +12,7 @@ This is a React + Vite project that demonstrates the use of **Context API** for 
 
 ```sh
 git clone https://github.com/Kunal1101/theme-switcher
-cd your-repo
+cd theme-switcher
 ```
 
 ### 2️⃣ Install Dependencies
